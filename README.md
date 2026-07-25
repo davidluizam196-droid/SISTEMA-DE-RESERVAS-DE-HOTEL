@@ -7,10 +7,6 @@
 
 <br><br>
 
-<!-- GIF Hotel -->
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="700" alt="Hotel"/>
-
-</p>
 
 <p align="center">
 
@@ -115,7 +111,6 @@ Desarrollar un sistema de software funcional para la **gestión de reservas de u
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="700"/>
 
 ### 💡 Las habitaciones iluminadas representan habitaciones ocupadas.
 
